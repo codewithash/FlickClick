@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FlickClick.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FLICKR_KEY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">5bPRDveArdI6v6jh+8H3rKZIxbNm0NZw0nKJOImJURsDsG08EhdtUpWbdHyxNwf4l5KUGgmXuoi+3Pulmj+rNy9WmZkRNW9Ugic0i8oie90=</Value>
+    </Setting>
+    <Setting Name="FLICKR_SECRET" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">aiRa2ZFKzL5WBr7sqn44EI5cIBnnWrw+xdqOoG1nePPFZYY/hdfipII/L1NC+G1i</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
